@@ -3,4 +3,5 @@ Atbash Cipher
 
 
 gcc main.c
+
 ./a.out
